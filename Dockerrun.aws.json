@@ -1,5 +1,5 @@
 {
-    "AWSEBDOckerrunVersion": 2,
+    "AWSEBDockerrunVersion": 2,
     "containerDefiniations":[
         {
             "name": "client",
