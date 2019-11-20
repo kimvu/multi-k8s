@@ -1,6 +1,6 @@
 {
     "AWSEBDockerrunVersion": 2,
-    "containerDefiniations":[
+    "containerDefinitions":[
         {
             "name": "client",
             "image": "kimlvu/multi-client",
